@@ -54,3 +54,6 @@ For more information, visit: [Intel® X<sup>e</sup>SS GitHub](https://github.com
 * Unity has a DX12 plugin fix in version 2022.3.39f1. Ensure your Unity engine version is greater than or equal to 2022.3.39f1.
 
 ![Unity Issue](Docs/unity_issue.png?raw=true "Unity Issue")
+
+## For Unity 6
+* You can directly use the `com.intel.xess` module in Unity6. For the HDRP render pipeline, there are two patches available in the 'Unity6Patch' folder: one for 'com.unity.render-pipelines.core' and another for 'com.unity.render-pipelines.high-definition'.
