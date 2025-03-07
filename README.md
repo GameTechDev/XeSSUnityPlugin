@@ -8,6 +8,8 @@ This plugin integrates Intel® Xe Super Sampling (X<sup>e</sup>SS) into the Unit
 Intel® X<sup>e</sup>SS enables innovative framerate boosting technology supported by Intel® Arc™ graphics cards and other GPU vendors. Using AI deep-learning for upscaling, X<sup>e</sup>SS offers higher framerates without degrading image quality.
 For more information, visit: [Intel® X<sup>e</sup>SS GitHub](https://github.com/intel/xess)
 
+If you encounter any integration issues, feel free to use the [Intel® XeSS Inspector](https://github.com/GameTechDev/XeSSInspector). This tool is specifically designed to simplify the validation and debugging of XeSS integration within applications.
+
 ## Components
 * `com.intel.xess` - XeSS main C# package for Unity for XeSS SDK
 * `UnityXeSSPlugin` - XeSS native plugin source code for Unity
