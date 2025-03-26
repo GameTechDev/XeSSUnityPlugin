@@ -3,7 +3,7 @@
 ## Introduction
 This plugin integrates Intel® Xe Super Sampling (X<sup>e</sup>SS) into the Unity Engine.
 * The plugin now supports the HDRP/SRP render pipeline.
-* Supported graphics API: DX12.
+* Supported graphics API: DX12/Vulkan/DX11.
 
 Intel® X<sup>e</sup>SS enables innovative framerate boosting technology supported by Intel® Arc™ graphics cards and other GPU vendors. Using AI deep-learning for upscaling, X<sup>e</sup>SS offers higher framerates without degrading image quality.
 For more information, visit: [Intel® X<sup>e</sup>SS GitHub](https://github.com/intel/xess)
